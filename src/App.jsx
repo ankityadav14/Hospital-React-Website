@@ -1253,9 +1253,11 @@ function Login () {
         <div className='lg-card'>
           <div className='lg-l'>
               
-            <img src="/src/img/p4.jpg" alt="Login Scene" 
-                width={600} height={450}  
-            />
+            <img
+  className='scene'
+  src={IMG.p4}
+  alt='' width={600} height={450}
+/>
             <Link to='/' className='lg-logo'>
               <span className='mark'>✚</span>
               <b>MadMaxx</b>
