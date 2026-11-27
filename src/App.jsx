@@ -1246,7 +1246,7 @@ function Login () {
     <div className='lg'>
       <div className='lg-bg'>
         
-        <img src="/src/img/p4.jpg" alt="Login Scene" />
+        <LoginScene />
       </div>
       <div className='lg-ov' />
       <div className='lg-main'>
