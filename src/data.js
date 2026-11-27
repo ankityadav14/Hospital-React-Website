@@ -267,7 +267,15 @@ export const articles = [
     'Circadian realignment and neurological micro-habits can restore focus.',
     'Dr. K. S. Ramanujam',
     '6 min'
-  ]
+  ],
+  [
+  'Heart Health',
+  'Keeping Your Heart Healthy',
+  'Small steps for a stronger heart',
+  'Regular exercise, balanced nutrition and routine heart screenings help reduce cardiovascular risks and support long-term heart health.',
+  'Dr. Arjun Sharma',
+  '4 min'
+ ]
 ]
 export const tests = [
   [
@@ -297,6 +305,13 @@ export const tests = [
     'Advanced Neuro Care',
     '14 Days',
     "From emergency admittance to intensive rehabilitation, every specialist showed deep empathy and surgical precision. I couldn't have asked for a better medical team."
+  ],
+  [
+    'Ankit Yadav',
+    'Pune',
+    'Advanced Neuro Care',
+    '10 Days',
+    "The care and support I received was Outstandig. Doctors and staff were always there for me. A life-changing experience! "
   ]
 ]
 export const quick = [
