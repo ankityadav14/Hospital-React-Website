@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import p4 from './img/p4.jpg';
+
 import {
   Routes,
   Route,
