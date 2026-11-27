@@ -1256,7 +1256,7 @@ function Login () {
             <img
   className='scene'
   src={IMG.p4}
-  alt='' width={600} height={450}
+  alt=''
 />
             <Link to='/' className='lg-logo'>
               <span className='mark'>✚</span>
