@@ -1140,7 +1140,8 @@ const Contact = () => (
         fields={[
           ['Name', 'text'],
           ['Phone', 'tel'],
-          ['Email', 'email'],['Select Specialty', 'select', specs.map(s => s[0])],
+          ['Email', 'email'],
+          ['Select Specialty', 'select', specs.map(s => s[0])],
           ['Message', 'area']
         ]}
       />
@@ -1252,7 +1253,7 @@ function Login () {
           <div className='lg-l'>
               
             <img src="/src/img/p4.jpg" alt="Login Scene" 
-                  width={1000} height={400} 
+                width={600} height={450}  
             />
             <Link to='/' className='lg-logo'>
               <span className='mark'>✚</span>
